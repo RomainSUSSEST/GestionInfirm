@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieDAL.dll
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieDAL.pdb
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieBO.dll
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieBO.pdb
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.dll
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.pdb
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.dll
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\obj\Debug\InfirmerieDAL.pdb
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieDAL.dll
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieDAL.pdb
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieBO.dll
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieBO.pdb
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieDAL\bin\Debug\InfirmerieDAL.dll.config

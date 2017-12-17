@@ -1,0 +1,11 @@
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.dll
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.pdb
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.dll
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.pdb
+C:\Users\Public\Documents\C#\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.dll
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\bin\Debug\InfirmerieBO.pdb
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.csprojResolveAssemblyReference.cache
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.csproj.CoreCompileInputs.cache
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.dll
+C:\Users\Romain\Desktop\GestionInfirmerie\InfirmerieBO\obj\Debug\InfirmerieBO.pdb
